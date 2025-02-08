@@ -1,7 +1,12 @@
 [@DickGrowerBot](https://t.me/DickGrowerBot)
 ============================================
 
-[![CI Build](https://github.com/kozalosev/DickGrowerBot/actions/workflows/ci-build.yaml/badge.svg?branch=main&event=push)](https://github.com/kozalosev/DickGrowerBot/actions/workflows/ci-build.yaml)
+Fork
+----
+Fork to modify locale for balls growing. Props to the original author.
+
+
+[![CI Build](https://github.com/maximxlss/BallsGrowerBot/actions/workflows/ci-build.yaml/badge.svg?branch=main&event=push)](https://github.com/maximxlss/BallsGrowerBot/actions/workflows/ci-build.yaml)
 
 A game bot for group chats that let its users grow their virtual "dicks" every day for some random count of centimeters (including negative values) and compete with friends and other chat members.
 
