@@ -1,6 +1,6 @@
 version: "3.7"
 services:
-  DickGrowerBot:
+  dickgrowerbot:
     build: .
     container_name: dickgrowerbot
     restart: unless-stopped
